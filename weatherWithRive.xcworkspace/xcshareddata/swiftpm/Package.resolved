@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "bottomsheet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Wouter125/Bottomsheet",
+      "state" : {
+        "branch" : "main",
+        "revision" : "44ab4103c63b07777bef40b91d5a21c3a12dbda4"
+      }
+    },
+    {
+      "identity" : "rive-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rive-app/rive-ios.git",
+      "state" : {
+        "revision" : "ffedc47d7d83b31c5ad53dca95b9ffc4eca9bc50",
+        "version" : "3.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
